@@ -1,0 +1,27 @@
+body {
+    background: white;
+    direction: rtl
+}
+
+.navbar-default {
+    background-color: #2980b9;
+    border-color: #2980b9;
+    border-radius: 0;
+    color: #fff
+}
+.navbar-default a {
+    color: inherit !important
+}
+
+.logo {
+    width: 300px;
+    margin: auto;
+}
+
+.authForm {
+    width: 40%;
+    margin: auto
+}
+.mb {
+    margin-bottom: 15px
+}
